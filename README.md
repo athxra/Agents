@@ -20,7 +20,7 @@ An automated SEO analysis tool that uses Apify's SEO audit actor and Google's Ge
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/athxra/Agents
 cd agents
 ```
 
